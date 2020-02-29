@@ -1,0 +1,9 @@
+My associate id:
+845106
+Other team members:
+845107,845084,845140,845112
+Team lead:
+845106
+My Role in team:
+1.Home Component
+2.Final Integration
